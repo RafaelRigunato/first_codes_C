@@ -1,6 +1,3 @@
-//Nesse exercício, você deverá implementar um algoritmo que receba um único valor inteiro. 
-//Em seguida, o algoritmo deve calcular e informar o antecessor e o sucessor do número recebido na entrada.
-
 #include<stdio.h>
 
 int main() {
